@@ -1,7 +1,7 @@
 # Computer-Vision-Fundamentals
 Selection of Computer Vision head RCNN, Fast RCNN, Faster RCNN 
 
-#### The implementations do not exactly replicate the original environments, parameters, or methodologies; rather, they were developed using insights derived from progress in computer vision.
+#### The implementations do not exactly replicate the original environments, parameters, or methodologies; rather, they were developed using theorotical insights derived from progress in computer vision.
 
 ## References 
 Rich feature hierarchies for accurate object detection and semantic segmentation
